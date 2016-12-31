@@ -1,0 +1,156 @@
+{
+  "basics": {
+    "name": "Andrew Cooper",
+    "label": "Data Enthusiast",
+    "picture": "",
+    "email": "andycooper.s@gmail.com",
+    "phone": "260.615.3058",
+    "website": "andscoop.com",
+    "summary": "I am a highly motivated and self-driven individual with experience developing Business Intelligence and software solutions. My experience is spread across a wide range of industries including financial services, insurance, retail, and SaaS. I am eager to continue developing creative and comprehensive solutions in addition to leveraging my strong back-end development skills in a role that challenges me to continuously expand my technical knowledge base.",
+    "location": {
+      "address": "6638 Murray Avenue",
+      "postalCode": "45227",
+      "city": "Cincinnati",
+      "countryCode": "United States",
+      "region": "Ohio"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "Level Up Development",
+      "position": "Data Engineer",
+      "website": "https://www.levelupdevelopment.com/",
+      "startDate": "December 2015",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Built ETL flows to support internal and client facing data needs.",
+        "Gathered, summarized and presented client requirements to developers for project kick-offs.",
+        "Researched and implemented open source technologies to support internal needs.",
+        "Developed and maintained client reporting solutions."
+      ]
+    },
+    {
+      "company": "Renaissance Electronic Services",
+      "position": "Software Engineer",
+      "website": "http://www.res-llc.com/",
+      "startDate": "July 2014 ",
+      "endDate": "December 2015",
+      "summary": "",
+      "highlights": [
+        "Developed new features, supported existing features, and maintained four separate application databases ranging from insurance claim processing applications with 200,000 claims per day of throughput to a point-of-sale transactional system processing over $150 million per year in credit card and check transactions",
+        "Led back-end design and architecture of all new features being implemented into current production systems",
+        "Served as the liaison between the development team and the business-side regarding data-centric issues within the production applications"
+      ]
+    },
+    {
+      "company": "Apparatus",
+      "position": "Business Intelligence Consultant",
+      "website": "http://www.apparatus.net/",
+      "startDate": "June 2013",
+      "endDate": "July 2014",
+      "summary": "",
+      "highlights": [
+        "Investigated, planned, and designed data warehouse solutions for various clients with heavy interaction across multiple departments",
+        "Developed, implemented, and supported data warehouses for clients using T-SQL and SSIS",
+        "Performed query tuning maintenance to reduce load on servers",
+        "Leveraged BIML to address the issue of producing timely SSIS solutions against changing schemas"
+      ]
+    },
+    {
+      "company": "Indiana University Technology Services ",
+      "position": "Consultant Supervisor",
+      "website": "",
+      "startDate": "January 2011",
+      "endDate": "May 2013",
+      "summary": "",
+      "highlights": [
+        "One of 20 supervisors that supported, organized, and dispatched 150 consultants over the Indiana University campus Mentored 3 consultants per semester via one-on-one weekly meetings, overseeing their personal and professional development Created a merit based reward system that both motivated consultants and allowed them to track their professional progress",
+        "Mentored 3 consultants per semester via one-on-one weekly meetings, overseeing their personal and professional development",
+        "Created a merit based reward system that both motivated consultants and allowed them to track their professional progress"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Indiana University Bloomington",
+      "area": "School of Informatics",
+      "studyType": "Bachelor of Science",
+      "startDate": "August 2009",
+      "endDate": "May 2013",
+      "gpa": "3.3",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "T-SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SSIS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SSAS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Service Broker",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Warehousing Kimball Method",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "pandas",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Excel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "scikit-learn",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Hiking",
+      "keywords": []
+    },
+    {
+      "name": "Camping",
+      "keywords": []
+    },
+    {
+      "name": "Running",
+      "keywords": []
+    },
+    {
+      "name": "Biking",
+      "keywords": []
+    }
+  ],
+  "references": []
+}
